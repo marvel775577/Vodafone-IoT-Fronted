@@ -114,7 +114,7 @@
     "lodash-es": "^4.17.14",
     "node-sass": "^4.9.0",
     "prettier": "^1.18.2",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "puppeteer": "^1.18.1",
     "sass-loader": "^7.1.0",
